@@ -1,5 +1,5 @@
 # idecod-store.github.io
-[https://idecod-store.com/](https://idecod-store.com/)
+[idecod-store.com](https://idecod-store.com/)
 [server-service](https://idecod-store.com/server/service)
 imei-service
 remote-service
